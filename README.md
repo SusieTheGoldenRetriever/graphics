@@ -1,1 +1,1 @@
-Personal small project I made while learning rust/wgpu.
+Small personal project I made while learning rust with wgpu.
